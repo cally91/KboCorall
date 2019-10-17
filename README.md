@@ -1,2 +1,2 @@
 # KboCorall
-KBO 클롤링
+KBO 크롤링
